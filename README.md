@@ -10,30 +10,6 @@ This project is a dynamic and interactive sales dashboard built using Python, St
 - **Sales by Hour**: Visualization of sales distribution throughout the day, helping to identify peak sales hours.
 - **Responsive Design**: The dashboard layout is designed to be responsive and adapts to different screen sizes.
 
-## Installation
-
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/your-username/sales-dashboard.git
-    cd sales-dashboard
-    ```
-
-2. Create and activate a virtual environment:
-    ```bash
-    python -m venv venv
-    source venv/bin/activate   # On Windows, use `venv\Scripts\activate`
-    ```
-
-3. Install the required packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-4. Run the Streamlit app:
-    ```bash
-    streamlit run app.py
-    ```
-
 ## File Structure
 
 - `app.py`: The main script that runs the Streamlit application.
@@ -63,7 +39,7 @@ These dependencies are listed in `requirements.txt` and can be installed with `p
 
 ## Screenshots
 
-![Sales Dashboard](Dashboard)
+![Sales Dashboard](Dashboard.png)
 
 ## Contact
 
